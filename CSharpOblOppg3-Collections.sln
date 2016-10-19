@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpOblOppg3-Collections", "CSharpOblOppg3-Collections\CSharpOblOppg3-Collections.csproj", "{8F0430E5-B857-4D7D-8A1B-1A5F52F26B15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionsLibrary", "CollectionsLibrary\CollectionsLibrary.csproj", "{408C16ED-5C5F-4875-956D-1C1617CE0854}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCdSales", "MyCdSales\MyCdSales.csproj", "{8867D762-AE1E-431A-8C73-F90C50D068B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{8F0430E5-B857-4D7D-8A1B-1A5F52F26B15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F0430E5-B857-4D7D-8A1B-1A5F52F26B15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F0430E5-B857-4D7D-8A1B-1A5F52F26B15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{408C16ED-5C5F-4875-956D-1C1617CE0854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{408C16ED-5C5F-4875-956D-1C1617CE0854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{408C16ED-5C5F-4875-956D-1C1617CE0854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{408C16ED-5C5F-4875-956D-1C1617CE0854}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8867D762-AE1E-431A-8C73-F90C50D068B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8867D762-AE1E-431A-8C73-F90C50D068B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8867D762-AE1E-431A-8C73-F90C50D068B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8867D762-AE1E-431A-8C73-F90C50D068B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

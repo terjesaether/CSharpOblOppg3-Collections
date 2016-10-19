@@ -1,0 +1,4 @@
+﻿En Grossist (Wholesale) kan ha flere Dealers (Forhandlere), men en forhandler kan bare ha én Grossist
+
+Dealer har AddSale
+
