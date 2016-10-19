@@ -12,22 +12,7 @@ namespace MyCdSales
         static void Main(string[] args)
         {
             var init = new InitProgram();
-
-            //var wholesale1 = new Wholesale
-            //{
-            //    CustomerNo = 89,
-            //    CompanyName = "CdGrossisten",
-            //    Address = "Persveien 2",
-            //    City = "Oslo",
-            //    Zipcode = "7890",
-            //    Contact = "Ola",
-            //    Phone = "89898787",
-            //    District = "West",
-            //};
-            //var wholesale2 = new Wholesale();
-            //var wholesale3 = new Wholesale();
-            //var wholesale4 = new Wholesale();
-
+            
             Wholesale wholesale1 = init.MakeWholesalers()[0];
             Wholesale wholesale2 = init.MakeWholesalers()[1];
             Wholesale wholesale3 = init.MakeWholesalers()[2];
